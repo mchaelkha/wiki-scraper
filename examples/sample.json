@@ -1,0 +1,420 @@
+[
+  {
+    "Artist": {
+      "FirstName": "Tame Impala"
+    },
+    "Album": {
+      "Title": "Currents",
+      "ReleaseDate": "2015-07-17",
+      "Genre": [
+        "Psychedelic Pop",
+        "Disco",
+        "R&B",
+        "Synth-Pop"
+      ]
+    },
+    "Songs": [
+      {
+        "Title": "Let It Happen",
+        "Length": "7:46",
+        "Track": 1
+      },
+      {
+        "Title": "Nangs",
+        "Length": "1:47",
+        "Track": 2
+      },
+      {
+        "Title": "The Moment",
+        "Length": "4:15",
+        "Track": 3
+      },
+      {
+        "Title": "Yes I'm Changing",
+        "Length": "4:30",
+        "Track": 4
+      },
+      {
+        "Title": "Eventually",
+        "Length": "5:19",
+        "Track": 5
+      },
+      {
+        "Title": "Gossip",
+        "Length": "0:55",
+        "Track": 6
+      },
+      {
+        "Title": "The Less I Know the Better",
+        "Length": "3:38",
+        "Track": 7
+      },
+      {
+        "Title": "Past Life",
+        "Length": "3:47",
+        "Track": 8
+      },
+      {
+        "Title": "Disciples",
+        "Length": "1:48",
+        "Track": 9
+      },
+      {
+        "Title": "'Cause I'm a Man",
+        "Length": "4:02",
+        "Track": 10
+      },
+      {
+        "Title": "Reality in Motion",
+        "Length": "4:12",
+        "Track": 11
+      },
+      {
+        "Title": "Love/Paranoia",
+        "Length": "3:10",
+        "Track": 12
+      },
+      {
+        "Title": "New Person, Same Old Mistakes",
+        "Length": "6:03",
+        "Track": 13
+      }
+    ]
+  },
+  {
+    "Artist": {
+      "FirstName": "Tame Impala"
+    },
+    "Album": {
+      "Title": "Currents",
+      "ReleaseDate": "2015-07-17",
+      "Genre": [
+        "Psychedelic Pop",
+        "Disco",
+        "R&B",
+        "Synth-Pop"
+      ]
+    },
+    "Songs": [
+      {
+        "Title": "Let It Happen",
+        "Length": "7:46",
+        "Track": 1
+      },
+      {
+        "Title": "Nangs",
+        "Length": "1:47",
+        "Track": 2
+      },
+      {
+        "Title": "The Moment",
+        "Length": "4:15",
+        "Track": 3
+      },
+      {
+        "Title": "Yes I'm Changing",
+        "Length": "4:30",
+        "Track": 4
+      },
+      {
+        "Title": "Eventually",
+        "Length": "5:19",
+        "Track": 5
+      },
+      {
+        "Title": "Gossip",
+        "Length": "0:55",
+        "Track": 6
+      },
+      {
+        "Title": "The Less I Know the Better",
+        "Length": "3:38",
+        "Track": 7
+      },
+      {
+        "Title": "Past Life",
+        "Length": "3:47",
+        "Track": 8
+      },
+      {
+        "Title": "Disciples",
+        "Length": "1:48",
+        "Track": 9
+      },
+      {
+        "Title": "'Cause I'm a Man",
+        "Length": "4:02",
+        "Track": 10
+      },
+      {
+        "Title": "Reality in Motion",
+        "Length": "4:12",
+        "Track": 11
+      },
+      {
+        "Title": "Love/Paranoia",
+        "Length": "3:10",
+        "Track": 12
+      },
+      {
+        "Title": "New Person, Same Old Mistakes",
+        "Length": "6:03",
+        "Track": 13
+      }
+    ]
+  },
+  {
+    "Artist": {
+      "FirstName": "Tame Impala"
+    },
+    "Album": {
+      "Title": "The Slow Rush",
+      "ReleaseDate": "2020-02-14",
+      "Genre": [
+        "Psychedelic Pop",
+        "Disco",
+        "Prog Pop",
+        "Soft Rock",
+        "Electronic"
+      ]
+    },
+    "Songs": [
+      {
+        "Title": "One More Year",
+        "Length": "5:22",
+        "Track": 1
+      },
+      {
+        "Title": "Instant Destiny",
+        "Length": "3:13",
+        "Track": 2
+      },
+      {
+        "Title": "Borderline",
+        "Length": "3:57",
+        "Track": 3
+      },
+      {
+        "Title": "Posthumous Forgiveness",
+        "Length": "6:05",
+        "Track": 4
+      },
+      {
+        "Title": "Breathe Deeper",
+        "Length": "6:13",
+        "Track": 5
+      },
+      {
+        "Title": "Tomorrow's Dust",
+        "Length": "5:25",
+        "Track": 6
+      },
+      {
+        "Title": "On Track",
+        "Length": "5:00",
+        "Track": 7
+      },
+      {
+        "Title": "Lost in Yesterday",
+        "Length": "4:09",
+        "Track": 8
+      },
+      {
+        "Title": "Is It True",
+        "Length": "3:58",
+        "Track": 9
+      },
+      {
+        "Title": "It Might Be Time",
+        "Length": "4:33",
+        "Track": 10
+      },
+      {
+        "Title": "Glimmer",
+        "Length": "2:08",
+        "Track": 11
+      },
+      {
+        "Title": "One More Hour",
+        "Length": "7:13",
+        "Track": 12
+      }
+    ]
+  },
+  {
+    "Artist": {
+      "FirstName": "Odesza"
+    },
+    "Album": {
+      "Title": "In Return",
+      "ReleaseDate": "2014-09-9",
+      "Genre": [
+        "Indietronica",
+        "Synth-Pop"
+      ]
+    },
+    "Songs": [
+      {
+        "Title": "Always This Late",
+        "Length": "2:40",
+        "Track": 1
+      },
+      {
+        "Title": "Say My Name",
+        "Length": "4:22",
+        "Track": 2
+      },
+      {
+        "Title": "Bloom",
+        "Length": "3:15",
+        "Track": 3
+      },
+      {
+        "Title": "All We Need",
+        "Length": "3:31",
+        "Track": 4
+      },
+      {
+        "Title": "Sundara",
+        "Length": "2:16",
+        "Track": 5
+      },
+      {
+        "Title": "White Lies",
+        "Length": "4:37",
+        "Track": 6
+      },
+      {
+        "Title": "Kusanagi",
+        "Length": "3:28",
+        "Track": 7
+      },
+      {
+        "Title": "Echoes",
+        "Length": "4:23",
+        "Track": 8
+      },
+      {
+        "Title": "It's Only",
+        "Length": "4:28",
+        "Track": 9
+      },
+      {
+        "Title": "Koto",
+        "Length": "3:14",
+        "Track": 10
+      },
+      {
+        "Title": "Memories That You Call",
+        "Length": "4:08",
+        "Track": 11
+      },
+      {
+        "Title": "Sun Models",
+        "Length": "2:40",
+        "Track": 12
+      },
+      {
+        "Title": "For Us",
+        "Length": "5:49",
+        "Track": 13
+      }
+    ]
+  },
+  {
+    "Artist": {
+      "FirstName": "ODESZA"
+    },
+    "Album": {
+      "Title": "A Moment Apart",
+      "ReleaseDate": "2017-09-8",
+      "Genre": [
+        "Indietronica",
+        "Chillwave",
+        "Future Bass"
+      ]
+    },
+    "Songs": [
+      {
+        "Title": "Intro",
+        "Length": "1:03",
+        "Track": 1
+      },
+      {
+        "Title": "A Moment Apart",
+        "Length": "3:54",
+        "Track": 2
+      },
+      {
+        "Title": "Higher Ground",
+        "Length": "3:35",
+        "Track": 3
+      },
+      {
+        "Title": "Boy",
+        "Length": "3:03",
+        "Track": 4
+      },
+      {
+        "Title": "Line of Sight",
+        "Length": "3:57",
+        "Track": 5
+      },
+      {
+        "Title": "Late Night",
+        "Length": "3:48",
+        "Track": 6
+      },
+      {
+        "Title": "Across the Room",
+        "Length": "4:43",
+        "Track": 7
+      },
+      {
+        "Title": "Meridian",
+        "Length": "3:55",
+        "Track": 8
+      },
+      {
+        "Title": "Everything at Your Feet",
+        "Length": "3:28",
+        "Track": 9
+      },
+      {
+        "Title": "Just a Memory",
+        "Length": "3:56",
+        "Track": 10
+      },
+      {
+        "Title": "Divide",
+        "Length": "4:01",
+        "Track": 11
+      },
+      {
+        "Title": "Thin Floors and Tall Ceilings",
+        "Length": "2:58",
+        "Track": 12
+      },
+      {
+        "Title": "La Ciudad",
+        "Length": "4:31",
+        "Track": 13
+      },
+      {
+        "Title": "Falls",
+        "Length": "3:52",
+        "Track": 14
+      },
+      {
+        "Title": "Show Me",
+        "Length": "3:38",
+        "Track": 15
+      },
+      {
+        "Title": "Corners of the Earth",
+        "Length": "5:05",
+        "Track": 16
+      }
+    ]
+  }
+]

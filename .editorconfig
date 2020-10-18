@@ -10,5 +10,8 @@ charset = utf-8
 end_of_line = lf
 
 # 4 space indentation
-[*.{py}]
+[*.py]
 indent_size = 4
+
+[*.json]
+indent_size = 2
